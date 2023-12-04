@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="aE}LDV8PU4?YCEp^M:Z}" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="FxdY3#,r*`Rh1W-J}?zO"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="Bx^mA@3-Hm/u-JT=ix~E"><field name="NAME">Button.A</field></block></value><statement name="DO0"><block type="device_show_leds" id="XIW^EpA,_CZKw+5cQE4@"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . .
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="#~U7wPVdUV5S%0e?*OP5"></block></statement></block></statement></block><block type="device_forever" id=".Bg(UJpPbQ3SK9DyCP.E" x="425" y="-12"><statement name="HANDLER"><block type="controls_if" id="9/J.k~B,8TD{_!ev-]0D"><mutation else="1"></mutation><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="device_get_button2" id="1?Hjy8}cyb7b#ah3=!xj"><field name="NAME">Button.B</field></block></value><statement name="DO0"><block type="device_show_leds" id="2B9yMVRal$-/39}xJM^s"><field name="LEDS">`
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . #
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="(IIIlbauNaR5xd=n[7YL"></block></statement></block></statement></block></xml>
